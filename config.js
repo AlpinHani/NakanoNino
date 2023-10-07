@@ -44,10 +44,10 @@ global.ppulsa2 = '085749543572'
 global.psaweria = 'https://saweria.co/oktakc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
+global.nomorbot = '6282287750102'
+global.nomorown = '84876459724'
 global.namebot = 'Nakano Nino'
-global.nameown = 'Okta'
+global.nameown = 'Alpin'
 
 
 /*============== STAFF ==============*/
